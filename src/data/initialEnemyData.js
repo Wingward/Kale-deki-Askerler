@@ -1,7 +1,7 @@
 export default [
   {
     id: crypto.randomUUID(),
-    currentImage: './images/enemy1A.png', // public klasörü kök dizindir
+    currentImage: './images/enemy1A.png',
     altImage: './images/enemy1B.png',
     orientation: 'left',
     position: {
